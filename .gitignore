@@ -1,0 +1,11 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+node_modules/
+.nyc_output/
+coverage/
+npm-debug.log
+package-lock.json
+npm-debug.log
+npm-debug.log.*
+test/*.log
+**/*.zip
+dist/
